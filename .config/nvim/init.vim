@@ -4,6 +4,10 @@ call plug#begin('~/.local/share/nvim/plugged')
 " Plugins to be installed
 Plug 'itchyny/lightline.vim'
 Plug 'vimwiki/vimwiki'
+Plug 'pearofducks/ansible-vim'
+Plug 'jooize/vim-colemak'
+Plug 'scrooloose/nerdtree'
+Plug '/usr/local/opt/fzf'
 
 call plug#end()
 
